@@ -56,7 +56,7 @@ Detailed reports on data validation, model testing, and performance are publishe
 
 ### Installation
 ```bash
-git clone https://github.com/DavidBalazic/IIS_Vaje.git
+git clone https://github.com/DavidBalazic/pm10_particle_prediction.git
 cd IIS_Vaje
 dvc pull
 dvc repro
